@@ -1,6 +1,6 @@
 # Social Platform
 
-Il progetto BEPT - Milestone 2 consiste nel rogettare il database per la piattaforma social, creando il diagramma ER e poi svolgendo le query fornite. 
+Il progetto BEPT - Milestone 3 consiste nel rogettare il database per la piattaforma social, creando il diagramma ER e poi svolgendo le query fornite. 
 
 ## Authors
 
